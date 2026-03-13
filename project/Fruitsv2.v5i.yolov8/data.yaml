@@ -1,0 +1,14 @@
+path : C:/ComputerVision/project/Fruitsv2.v5i.yolov8
+train:  C:/ComputerVision/project/Fruitsv2.v5i.yolov8/train/images
+val: C:/ComputerVision/project/Fruitsv2.v5i.yolov8/valid/images
+test: C:/ComputerVision/project/Fruitsv2.v5i.yolov8/test/images
+
+nc: 4
+names: ['Apple', 'Banana', 'Carrot', 'Orange']
+
+roboflow:
+  workspace: fruits-dataset
+  project: fruitsv2-duplk
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fruits-dataset/fruitsv2-duplk/dataset/5
