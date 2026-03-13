@@ -17,10 +17,9 @@ https://universe.roboflow.com/fruits-dataset/fruitsv2-duplk
 
 สิ่งที่กำลังพัฒนาและแผนในอนาคต (Roadmap & Future Improvements)
 มีแผนที่จะปรับปรุงโปรเจกต์นี้ให้มีประสิทธิภาพมากขึ้นในอนาคต ดังนี้:
-[ ] Optimization: ปรับแต่งโมเดล (Fine-tuning) ให้มีความแม่นยำสูงขึ้นในสภาวะแสงที่แตกต่างกัน
-[ ] Counting System: เพิ่มระบบนับจำนวนผลไม้แยกตามประเภทและเกรดที่ผ่านสายพาน
-[ ] Dashboard: พัฒนาหน้า UI สำหรับสรุปผลสถิติการตรวจจับรายวัน
+- ปรับแต่งโมเดล (Fine-tuning) ให้มีความแม่นยำสูงขึ้นในสภาวะแสงที่แตกต่างกัน
+- เพิ่มจำนวน dataset ให้ครอบคลุมมากขึ้น
 
-
+ผลการทดลองหรือกราฟ (Training Results)
 
 วิดีโอผลการรัน https://1drv.ms/f/c/055dbb0a89a31fa1/IgB_n_e4O6HSTZuD_YY3LWRFAVMtfCSZqxp4HwQVrhkRiqk?e=IH3jt5
