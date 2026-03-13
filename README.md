@@ -20,6 +20,6 @@ https://universe.roboflow.com/fruits-dataset/fruitsv2-duplk
 - ปรับแต่งโมเดล (Fine-tuning) ให้มีความแม่นยำสูงขึ้นในสภาวะแสงที่แตกต่างกัน
 - เพิ่มจำนวน dataset ให้ครอบคลุมมากขึ้น
 
-ผลการทดลองหรือกราฟ (Training Results)
+ผลการทดลองหรือกราฟ (Training Results) https://github.com/pimwaree-pulkasem/ComputerVision/tree/main/project/train3
 
 วิดีโอผลการรัน https://1drv.ms/f/c/055dbb0a89a31fa1/IgB_n_e4O6HSTZuD_YY3LWRFAVMtfCSZqxp4HwQVrhkRiqk?e=IH3jt5
