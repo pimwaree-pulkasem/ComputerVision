@@ -1,3 +1,4 @@
+folder : project
 Fruit Quality Control Inspection (YOLOv8)
 
 ฟีเจอร์หลัก (Key Features)
