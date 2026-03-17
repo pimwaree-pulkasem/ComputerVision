@@ -5,7 +5,7 @@ Fruit Quality Control Inspection (YOLOv8)
 ฟีเจอร์หลัก (Key Features)
 Real-time Detection: ตรวจจับผลไม้ประเภทต่างๆ (ส้ม, แอปเปิ้ล, กล้วย , แครอท) จากวิดีโอ
 
-Quality Classification: จำแนกเกรดของผลไม้เบื้องต้น (เช่น ผลผลิตสมบูรณ์ / ผลผลิตที่มีตำหนิ) //เนื่องจากตัว dataset ไม่มี label แยกผลที่มีตำหนิ จึงเป็นส่วนที่ต้องปรับปรุง
+Quality Classification: จำแนกเกรดของผลไม้เบื้องต้น (เช่น ผลผลิตสมบูรณ์ / ผลผลิตที่มีตำหนิ) //เนื่องจากตัว dataset ไม่มี label แยกผลที่มีตำหนิ จึงเป็นส่วนที่ต้องพัฒนาต่อ
 
 YOLOv8 Implementation: ใช้โมเดล Ultralytics YOLOv8 
 
